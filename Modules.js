@@ -1,0 +1,6 @@
+const func=module.require('./Until')
+const {jo,abeni}=module.require('./names')
+const age=require('./names')
+require('./Mind')
+func(jo)
+func(abeni)
